@@ -1,5 +1,5 @@
 # openbsd-xfce-install-script
-The script installs and configures xfce, slim, slim-themes and consolekit2 on a freshly installed OpenBSD 6.3.
+This script installs and configures xfce, slim, slim-themes and consolekit2 on a freshly installed OpenBSD 6.3.
 The installation of xfce-extras, paper-gtk-theme and paper-icon-theme is optional.
 ## Usage
 Copy the script via **scp** to the OpenBSD machine.
